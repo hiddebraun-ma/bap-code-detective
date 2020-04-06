@@ -3,10 +3,11 @@
 ### Los de fouten op in de code
 
 Importeer eerst het bestand `people.sql` in phpMyAdmin. Je krijgt nu een `bap_detective` database met een table `people`.
-Deze code bevat allerlei fouten. En je krijgt dus veel foutmeldingen te zien.
+Deze code bevat allerlei fouten dus je krijgt dus foutmeldingen te zien.
 Los alle fouten op door de foutmeldingen goed te lezen, en probeer te achterhalen wat er fout gaat.
 
 Soms is een variabelenaam fout of mist er een haakje, of het pad naar een bestand is niet correct.  Misschien moet je bestanden op een andere plek zetten...
+
 
  
 ### Werkwijze
