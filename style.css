@@ -1,0 +1,50 @@
+body {
+    font-family: 'Baloo Thambi 2', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    margin: 0;
+}
+
+
+.person-table {
+    border: 1px solid #888;
+}
+
+.person-table tr:nth-child(2){
+    background: #cdcdcd;
+}
+
+form {
+    background: #cdcdcd;
+    padding: 20px;
+    border: 1px solid #333;
+}
+
+
+.form-row {
+    display: flex;
+    align-content: center;
+}
+
+.form-row label{
+    width: 200px;
+    text-align: right;
+}
+
+.form-row input, .form-row textarea {
+    width: 400px;
+}
+
+textarea {
+    height: 300px;
+}
+
+button {
+    background: #3d57a0;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 3px 7px;
+    font-size: 18px;
+}
+
+
